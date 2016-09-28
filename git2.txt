@@ -3,4 +3,3 @@
 feature1 test
 
 feature
-master
